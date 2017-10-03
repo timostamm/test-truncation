@@ -1,0 +1,21 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"TS\\" : "src/TS"
+		}
+	},
+	"autoload-dev" : {
+		"psr-4" : {
+			"tests\\" : "tests/"
+		}
+	},
+	"name" : "timostamm/text-truncation",
+	"type" : "library",
+	"license" : "AGPL-3.0",
+	"require" : {
+		"php" : ">=7.1"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "~6.3"
+	}
+}
