@@ -1,7 +1,7 @@
 <?php
 
 
-namespace TS\TextTruncation;
+namespace TS\Text;
 
 use PHPUnit\Framework\TestCase;
 
